@@ -1,4 +1,4 @@
-using CoverageTest.Core;
+using ClassLibrary1;
 using Xunit;
 
 namespace TestProject1;
